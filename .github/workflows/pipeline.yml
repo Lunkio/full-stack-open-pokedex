@@ -28,5 +28,3 @@ jobs:
           heroku_email: 'jukka.gronroos@gmail.com'
           healthcheck: 'https://pokedex-training.herokuapp.com/health'
           checkstring: 'ok'
-          healthcheck: 'https://pokedex-training.herokuapp.com/version'
-          checkstring: '2'
